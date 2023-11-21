@@ -9,6 +9,7 @@
 
 <details><summary>My Skills</summary>
 
+![Rust](https://img.shields.io/badge/rust-E34F26.svg?style=flat&logo=rust&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
@@ -28,7 +29,6 @@
 <details><summary>Things Im Learning</summary>
 
 ![GithubActions](https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF.svg?&style=flat&logo=github-actions&logoColor=white)&nbsp;
-![Rust](https://img.shields.io/badge/rust-E34F26.svg?style=flat&logo=rust&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 </details>
 
