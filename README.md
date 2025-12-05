@@ -8,5 +8,5 @@
 <hr/>
 
 <div>
-  <img height="200%" width="auto" src ="https://cards.cqb13.dev/cards/languages">
+  <img src ="https://cards.cqb13.dev/cards/languages">
 </div>
